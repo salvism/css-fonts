@@ -1,0 +1,70 @@
+h1 {
+  text-align: center;
+  color: #109e97;
+  font-family: "Lobster", cursive;
+  font-size: 49px;
+  line-height: 61px;
+  margin: 34px;
+}
+hr {
+  box-sizing: border-box;
+  border: 1px solid #000000;
+  border-radius: 0px;
+  width: 1822px;
+}
+.name {
+  font-size: 23px;
+  line-height: 27px;
+}
+.price-green {
+  font-size: 25px;
+  line-height: 29px;
+  color: #008000;
+  margin-top: 20px;
+  display: inline;
+}
+.price-red {
+  font-size: 15px;
+  line-height: 18px;
+  color: #ff0000;
+  display: inline;
+}
+img {
+  margin-top: 18px;
+  border-radius: 0px;
+}
+.book {
+  margin-top: 20px;
+}
+.text {
+  background-color: #000000;
+  border-radius: 0px;
+  width: 1822px;
+  height: 256px;
+  position: absolute;
+}
+.title {
+  font-size: 20px;
+  line-height: 23px;
+  text-align: right;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #000000;
+  margin: 44px 0px 23px 1682px;
+}
+.book-info {
+  font-size: 18px;
+  line-height: 21px;
+  text-align: right;
+  letter-spacing: 2px;
+  background-color: #000000;
+  color: #ffffff;
+  width: 1779px;
+  height: 126px;
+  margin: 0px 0px 43px 43px;
+}
+h3 {
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: uppercase;
+}
